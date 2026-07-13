@@ -28,6 +28,7 @@
 
 ### 📈 En lo que ando ahora
 
+- ✅ **HTML5 & CSS3** — estructura y estilos de páginas web.
 - ✅ **TypeScript** — bases completas (tipos, funciones, objetos, arrays).
 - ✅ **Git & GitHub** — commits, ramas, merge, pull requests, `.gitignore`.
 - 🔄 **JavaScript** — perfeccionándolo, ahora con el **DOM** (hacer páginas interactivas).
