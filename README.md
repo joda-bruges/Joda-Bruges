@@ -1,17 +1,17 @@
 <h1 align="center">¡Hola! Soy Jose Bruges 👋</h1>
 
 <p align="center">
-  Futuro <b>desarrollador Frontend Junior</b> 🚀 · Aprendiendo en público, un commit a la vez.
+  <b>Desarrollador Frontend Junior en construcción</b> 🏗️
 </p>
 
 ---
 
 ### 🧑‍💻 Sobre mí
 
-- 🌱 Estoy formándome como **desarrollador frontend** desde cero, con un plan por fases.
-- 📚 Documento **cada cosa que aprendo** en repositorios públicos (tipo apuntes de clase).
-- 🇨🇴 Desde Colombia.
-- 🎯 **Meta:** conseguir mi primer puesto como frontend junior.
+- 🌱 En constante formación en **Desarrollo Frontend** (aplicando escalonamiento por fases).
+- 🔗 Procesos concatenados — **documentación de lecciones aprendidas** en repositorios públicos (tipo apuntes de clase).
+- 🇨🇴 Desde Colombia — metodología bilingüe.
+- 🎯 **Meta:** posicionamiento estratégico como Frontend Junior.
 
 ---
 
