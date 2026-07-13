@@ -15,6 +15,19 @@
 
 ---
 
+### 🎓 Formación
+
+- 🎓 **Tecnología en Programación** (3 años).
+- 📖 Cursos de **HTML5, CSS3 y JavaScript** — Udemy.
+
+---
+
+### 💼 De dónde vengo
+
+**12 años** en el sector automotriz como **asesor comercial** (Renault, Nissan) y **coordinador de taller** (Chevrolet). Ahora aplico esa **disciplina, trato con el cliente y capacidad de coordinación** al desarrollo web. 🚗➡️💻
+
+---
+
 ### 🛠️ Con lo que trabajo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
